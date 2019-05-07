@@ -16,6 +16,7 @@ fundamental step in the NLP pipeline. Lemmatization is crucial for
 general corpus indexing purposes as well as for many applications in
 lexicography, text classification, discourse analysis, etc.
 
+
 ## Tasks ##
 
 Participants will receive pre-tokenized and pre-tagged text files
@@ -26,6 +27,7 @@ possible, any non-standard orthographical features of the
 token. For normalized lemmata, on the other hand, obvious
 spelling errors are corrected and non-standard forms are treated
 as standard forms.
+
 
 ### Subtask 1: Surface-oriented lemmatization ###
 
@@ -66,11 +68,24 @@ Natural Language Processing (“Konferenz zur Verarbeitung natürlicher
 Sprache”, KONVENS) hosted on October 8, 2019 at FAU
 Erlangen-Nuremberg, see <http://2019.konvens.org/>.
 
+
+## Registration ##
+
+Participants to the shared task need to register by sending an e-mail
+with the following information to [E-MAIL]:
+
+  * Team name (will be used to identify submissions)
+  * Name(s) of team member(s)
+  * Affiliation(s)
+  * Contact person and e-mail address
+
+
 ## Mailing list ##
 
 All participants and further interested parties are invited to
 register to our [mailing
 list](https://lists.fau.de/cgi-bin/listinfo/workshop-lemmatisierung).
+
 
 ## Lemmatization guidelines ##
 
@@ -80,6 +95,7 @@ guidelines](doc/lemmatisierungsrichtlinien.pdf) (in German) that are
 an extension of the [TIGER annotation
 scheme](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/annotation/tiger_scheme-morph.pdf).
 
+
 ## Data sets ##
 
 The training data were individually lemmatized by four student
@@ -88,6 +104,7 @@ guidelines](doc/lemmatisierungsrichtlinien.pdf). Unclear cases were
 decided in group meetings with the task organizers.
 
   * [training data](data/empirist-lemmatization_training_data_2019-04-26.zip) (2019-04-26)
+
 
 ## Organizers ##
 
