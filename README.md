@@ -74,7 +74,11 @@ list](https://lists.fau.de/cgi-bin/listinfo/workshop-lemmatisierung).
 
 ## Lemmatization guidelines ##
 
-[lemmatization guidelines](doc/lemmatisierungsrichtlinien.pdf) (in German)
+The training and test data of the shared task have been manually
+lemmatized according to our [lemmatization
+guidelines](doc/lemmatisierungsrichtlinien.pdf) (in German) that are
+an extension of the [TIGER annotation
+scheme](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/TIGERCorpus/annotation/tiger_scheme-morph.pdf).
 
 ## Data sets ##
 
