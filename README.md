@@ -29,11 +29,31 @@ as standard forms.
 
 ### Subtask 1: Surface-oriented lemmatization ###
 
+    XD	EMOASC	XD
+    du	PPER	du
+    killst	VVFIN	killen
+    mich	PPER	mich
+    !	$.	!
+    Soooo	PTKIFG	soooo
+    herrlich	ADJD	herrlich
+    xDD	EMOASC	xDD
+
+
 ### Subtask 2: Normalized lemmatization ###
+
+    XD	EMOASC	XD
+    du	PPER	du
+    killst	VVFIN	killen
+    mich	PPER	mich
+    !	$.	!
+    Soooo	PTKIFG	so
+    herrlich	ADJD	herrlich
+    xDD	EMOASC	xDD
+
 
 ## Schedule ##
 
-  * 2019-04-28: Release of training data
+  * 2019-04-26: Release of training data
   * 2019-07-15 to 2019-07-25: Evaluation period
   * 2019-07-31: Publication of results
   * 2019-08-15: Submission of system description papers
@@ -56,9 +76,14 @@ list](https://lists.fau.de/cgi-bin/listinfo/workshop-lemmatisierung).
 
 [lemmatization guidelines](doc/lemmatisierungsrichtlinien.pdf) (in German)
 
-## Data ##
+## Data sets ##
 
-[training data](data/empirist-lemmatization_training_data_2019-04-26.zip)
+The training data were individually lemmatized by four student
+annotators according to our [lemmatization
+guidelines](doc/lemmatisierungsrichtlinien.pdf). Unclear cases were
+decided in group meetings with the task organizers.
+
+  * [training data](data/empirist-lemmatization_training_data_2019-04-26.zip) (2019-04-26)
 
 ## Organizers ##
 
