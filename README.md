@@ -72,7 +72,8 @@ Erlangen-Nuremberg, see <http://2019.konvens.org/>.
 ## Registration ##
 
 Participants to the shared task need to register by sending an e-mail
-with the following information to [E-MAIL]:
+with the following information to
+[empirist@collocations.de](mailto:empirist@collocations.de):
 
   * Team name (will be used to identify submissions)
   * Name(s) of team member(s)
