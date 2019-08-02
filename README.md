@@ -1,5 +1,8 @@
 # GermEval 2019 Task 3: Shared task on the lemmatization of German web and social media texts (EmpiriST-lemmatization 2019) #
 
+**Note that the shared task has been cancelled due to an insufficient
+number of participants.**
+
 ## Goal ##
 
 The goal of the shared task is to encourage the developers of NLP
@@ -57,16 +60,16 @@ as standard forms.
 
   * 2019-04-26: Release of training data
   * 2019-07-15 to 2019-07-25: Evaluation period
-  * 2019-07-31: Publication of results
-  * 2019-08-15: Submission of system description papers
-  * 2019-08-31: Notification of acceptance
-  * 2019-10-01: Camera-ready papers due
-  * 2019-10-08: Workshop in Erlangen, Germany
+  * ~~2019-07-31: Publication of results~~
+  * ~~2019-08-15: Submission of system description papers~~
+  * ~~2019-08-31: Notification of acceptance~~
+  * ~~2019-10-01: Camera-ready papers due~~
+  * ~~2019-10-08: Workshop in Erlangen, Germany~~
 
-The shared task will be a pre-conference workshop of the Conference on
+~~The shared task will be a pre-conference workshop of the Conference on
 Natural Language Processing (“Konferenz zur Verarbeitung natürlicher
 Sprache”, KONVENS) hosted on October 8, 2019 at FAU
-Erlangen-Nuremberg, see <http://2019.konvens.org/>.
+Erlangen-Nuremberg, see <http://2019.konvens.org/>.~~
 
 
 ## Registration ##
